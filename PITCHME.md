@@ -85,11 +85,11 @@
 
 ---
 
-![0](assets/images/flow_summary.png)
+![0](assets/images/flow_summary.jpg)
 
 ---
 
-![1](assets/images/Github_Flow.png)
+![1](assets/images/Github_Flow.jpg)
 
 ---
 
