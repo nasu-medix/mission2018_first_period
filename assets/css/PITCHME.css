@@ -1,0 +1,39 @@
+@import url('https://afeld.github.io/emoji-css/emoji.css');
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+.reveal{
+ font-size: 1.6rem;
+ font-weight: 400;
+ font-family: "メイリオ","HiraginoKaku","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3";
+ word-break: normal;
+ word-wrap: break-word;
+}
+.reveal .noto{
+  font-family: "Noto Sans JP";
+}
+
+.reveal .bold{
+  font-weight: 900;
+}
+
+.reveal .ta_center{
+  text-align: center;
+}
+
+.reveal .ls_none{
+  list-style-type: none;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+  white-space: nowrap;
+}
+.reveal > .backgrounds{
+  background-color: rgba(0, 0, 0, 0.7);
+  background: url(../assets/images/github-wordpress.jpg);
+}

@@ -1,0 +1,5 @@
+theme-override : assets/css/PITCHME.css
+
+slide-number: true
+
+transition : zoom
