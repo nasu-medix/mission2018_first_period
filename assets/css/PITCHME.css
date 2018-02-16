@@ -33,6 +33,6 @@
   text-transform: none;
   white-space: nowrap;
 }
-.reveal > .backgrounds{
+.reveal > .backgrounds > div{
  background-color: rgba(0, 0, 0, 0.7);
 }
