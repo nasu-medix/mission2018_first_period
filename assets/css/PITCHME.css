@@ -11,6 +11,9 @@
 .reveal .noto{
   font-family: "Noto Sans JP";
 }
+.reveal .fc_white{
+  color: #fff;
+}
 
 .reveal .bold{
   font-weight: 900;
@@ -33,11 +36,18 @@
   text-transform: none;
   white-space: nowrap;
 }
+.reveal p {
+ text-align: left;
+}
 .reveal > .backgrounds > div{
  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .reveal > .slides > section:nth-child(5) ul li{
  list-style: none;
+ font-size: 2.4em;
+}
+
+.reveal > .slides > section:nth-child(7) h3 {
  font-size: 2.4em;
 }
