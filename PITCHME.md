@@ -1,8 +1,10 @@
 アイプリモ/ラザールのGithub化
 ===
 
+<div class="fc_white ta_center">
 企画制作部<br>
 那須 毅康
+</div>
 
 ---
 
